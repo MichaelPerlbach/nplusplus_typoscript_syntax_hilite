@@ -1,6 +1,7 @@
 # nplusplus_typoscript_syntax_hilite
 
-### This file provides systax highlighting for TypoScript (TYPO3 14.x) in Notepad++ for the light mode and the dark mode<br/>Tested with Notepad++ 8.9.8.1.<br/>Files with the file endigs "typoscript" and "tsconfig" are automatically openend with the TypoScript Syntax highlighting.
+### This file provides systax highlighting for TypoScript (TYPO3 14.x) in Notepad++<br/>for the light mode and the dark mode.
+#### Tested with Notepad++ 8.9.8.1. Files with the file endigs "typoscript" and "tsconfig" are automatically openend with the TypoScript Syntax highlighting.
 
 #### How to install
 
